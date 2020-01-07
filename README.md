@@ -14,16 +14,19 @@ After player names are given and Play-button is pressed, the game starts. As you
  - Wood
  - Stone
  - Ore
+ 
  Building, that can be placed on tiles are:
  - Headquarters
  - Outpost
  - Farm
  - Mine 
  - Oil rig
+ 
  Each building has a poteintial to generate a different amount of recources depending on the building type. To actually generate recources, you must place worker(s) on a builiding. There are 3 type of workers in the game:
  - Basic worker (produces every recource)
  - Farmer (skilled at producing food)
  - Miner (skilled at producing stone and ore)
+ 
 # How to play
 Start off by naming 1-4 players. If names are given correctly, the input field's backround will be green, if not it will be red. You can read Pirkanmaa's epic backround story by clicking the Lore-button at the dialog. 
 
